@@ -1,5 +1,6 @@
-`npm install `
-`npm start`
-`http-server -p 9000'
+# Installation
+`npm install ` <br>
+`npm start` <br>
+`http-server -p 9000` <br>
 
-#Goto http://localhost:9000
+##Goto http://localhost:9000
